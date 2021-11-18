@@ -1,2 +1,2 @@
-FROM hshar/webapp/f
-ADD .foodwebsite/devopsIQ /var/www/html/devopsIQ
+FROM hshar/webapp
+ADD ./devopsIQ /var/www/html/devopsIQ
